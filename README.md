@@ -1,5 +1,5 @@
 # Weaver-Eoffice-getshell exp
-泛微 eoffice10 前台 getshell
+泛微 eoffice10 前台 getshell 2022/7/30 修复致命误报
 
 author:160team.west9B
 
@@ -15,7 +15,7 @@ author:160team.west9B
 
 exp上传冰蝎，默认密码，上传成功返回shell地址
 
-poc：访问/eoffice10/server/public/iWebOffice2015/OfficeServer.php返回200存在漏洞，404及其他不存在。
+poc：访问/eoffice10/server/public/iWebOffice2015/OfficeServer.php返回code:"404"漏洞不存在。
 
 # Screenshots
 ![Image text](https://github.com/west9b/Weaver-Eoffice-getshell/blob/main/exp.png)
