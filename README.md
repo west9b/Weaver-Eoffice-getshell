@@ -19,3 +19,4 @@ poc：访问/eoffice10/server/public/iWebOffice2015/OfficeServer.php返回200存
 
 # Screenshots
 ![Image text](https://github.com/west9b/Weaver-Eoffice-getshell/blob/main/exp.png)
+![Image text](https://github.com/west9b/Weaver-Eoffice-getshell/blob/main/getshell.png)
